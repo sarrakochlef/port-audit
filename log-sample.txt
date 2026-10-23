@@ -1,0 +1,11 @@
+========================================
+Network Port Audit: [TIMESTAMP]
+Hostname: host
+========================================
+
+[ Listening TCP and UDP Ports ]
+Netid State  Local Address:Port  Peer Address:Port
+udp   UNCONN 0.0.0.0:5353         0.0.0.0:*
+tcp   LISTEN 0.0.0.0:8080         0.0.0.0:*
+
+Audit completed: [TIMESTAMP]
